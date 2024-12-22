@@ -243,8 +243,11 @@ Function onInterfaceDraw():
 <i>Figure 6: Result of the Program on L1/L2 Configuration</i>
 </div>
 
-
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3777d884-9a06-4c65-95dc-034ae972f9d1" alt="Result of the Program" width="600">
+<br>
+<i>Figure 7: Distribution of Motion Counts Across Shapes</i>
+</div>
 
 
 
